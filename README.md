@@ -37,7 +37,7 @@ A beautifully styled, multi-section web storefront inspired by the magical world
 ├── index.html       # Primary HTML document
 └── README.md        # Project documentation
 ---
-
+```
 ## 🚀 Future Enhancements
 
 * 📱 Add full Media Queries for mobile & tablet responsiveness.
