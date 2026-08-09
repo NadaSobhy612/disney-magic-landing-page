@@ -36,3 +36,15 @@ A beautifully styled, multi-section web storefront inspired by the magical world
 ├── webfonts/        # FontAwesome webfonts
 ├── index.html       # Primary HTML document
 └── README.md        # Project documentation
+---
+
+## 🚀 Future Enhancements
+
+* 📱 Add full Media Queries for mobile & tablet responsiveness.
+* ⚡ Integrate JavaScript for interactive image carousels, mobile drawer navigation, and cart logic.
+
+---
+
+### ✍️ Author
+
+Created with ❤️ by **Nada Sobhy**
