@@ -1,10 +1,10 @@
-# 👑 Disney Princesses - Magical E-Commerce Landing Page
+#  Disney Princesses - Magical E-Commerce Landing Page
 
 A beautifully styled, multi-section web storefront inspired by the magical world of Disney Princesses. This project showcases structured HTML5 semantic markup and custom CSS3 styling techniques without relying on external frameworks.
 
 ---
 
-## ✨ Features
+##  Features
 
 * **Top Bar & Navigation Header:** Styled links, social icons, and a dropdown menu architecture for exploring categories.
 * **Hero Banner & Sales Bar:** Eye-catching promo section with action buttons and themed text layouts.
@@ -18,7 +18,7 @@ A beautifully styled, multi-section web storefront inspired by the magical world
 
 ---
 
-## 🛠️ Built With
+##  Built With
 
 * **HTML5:** Pure semantic markup.
 * **CSS3:** Custom styles, CSS positioning, flexbox, and hover effects.
@@ -26,7 +26,7 @@ A beautifully styled, multi-section web storefront inspired by the magical world
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```text
 ├── css/
@@ -38,13 +38,10 @@ A beautifully styled, multi-section web storefront inspired by the magical world
 └── README.md        # Project documentation
 ---
 ```
-## 🚀 Future Enhancements
+##  Future Enhancements
 
-* 📱 Add full Media Queries for mobile & tablet responsiveness.
-* ⚡ Integrate JavaScript for interactive image carousels, mobile drawer navigation, and cart logic.
+*  Add full Media Queries for mobile & tablet responsiveness.
+*  Integrate JavaScript for interactive image carousels, mobile drawer navigation, and cart logic.
 
 ---
 
-### ✍️ Author
-
-Created with ❤️ by **Nada Sobhy**
